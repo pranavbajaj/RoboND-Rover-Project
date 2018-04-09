@@ -55,7 +55,7 @@
 #### 4. Areas where my code can fail
 ##### 1. When rover locates a yellow rock and then while moving toward rock, an obstacles comes in between.
 ##### 2. When rover is moving toward a yellow rock and need to fallow a very curve mountain boundary 
-##### 3. Rover cannot avoide obstacles which are in fornt of its tires but out of camera range  [In real life we can use different sensors for that].
+##### 3. Rover cannot avoide obstacles which are in fornt of its tires but out of camera range.  [In real life we can use different sensors for that]
 
 
 
